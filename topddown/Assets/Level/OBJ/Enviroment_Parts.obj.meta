@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 1cac129abdbaaba4d91c6cfb8b91ce49
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: barrel_Ring
+    100002: barrel_Ring1
+    100004: Body_barrel
+    100006: //RootNode
+    100008: Lamp
+    100010: Leg2_Table
+    100012: Pipes_Curve
+    100014: Pipes_Straight_Cap
+    100016: Pipes_Straight_No_Caps
+    100018: Straight_Two_Cap_Pipes
+    100020: Table_Leg1
+    100022: Table_pCube3_Seats
+    100024: Table_Seats_pCube1
+    100026: Table_Seats_pCube2
+    100028: Table_Seats_pCube4
+    100030: Table_Seats_pCube5
+    400000: barrel_Ring
+    400002: barrel_Ring1
+    400004: Body_barrel
+    400006: //RootNode
+    400008: Lamp
+    400010: Leg2_Table
+    400012: Pipes_Curve
+    400014: Pipes_Straight_Cap
+    400016: Pipes_Straight_No_Caps
+    400018: Straight_Two_Cap_Pipes
+    400020: Table_Leg1
+    400022: Table_pCube3_Seats
+    400024: Table_Seats_pCube1
+    400026: Table_Seats_pCube2
+    400028: Table_Seats_pCube4
+    400030: Table_Seats_pCube5
+    2100000: lambert6SG
+    2100002: lambert2SG
+    2100004: lambert7SG
+    2100006: lambert5SG
+    2100008: lambert3SG
+    2300000: barrel_Ring
+    2300002: barrel_Ring1
+    2300004: Body_barrel
+    2300006: Lamp
+    2300008: Leg2_Table
+    2300010: Pipes_Curve
+    2300012: Pipes_Straight_Cap
+    2300014: Pipes_Straight_No_Caps
+    2300016: Straight_Two_Cap_Pipes
+    2300018: Table_Leg1
+    2300020: Table_pCube3_Seats
+    2300022: Table_Seats_pCube1
+    2300024: Table_Seats_pCube2
+    2300026: Table_Seats_pCube4
+    2300028: Table_Seats_pCube5
+    3300000: barrel_Ring
+    3300002: barrel_Ring1
+    3300004: Body_barrel
+    3300006: Lamp
+    3300008: Leg2_Table
+    3300010: Pipes_Curve
+    3300012: Pipes_Straight_Cap
+    3300014: Pipes_Straight_No_Caps
+    3300016: Straight_Two_Cap_Pipes
+    3300018: Table_Leg1
+    3300020: Table_pCube3_Seats
+    3300022: Table_Seats_pCube1
+    3300024: Table_Seats_pCube2
+    3300026: Table_Seats_pCube4
+    3300028: Table_Seats_pCube5
+    4300000: barrel_Ring
+    4300002: barrel_Ring1
+    4300004: Body_barrel
+    4300006: Lamp
+    4300008: Leg2_Table
+    4300010: Pipes_Curve
+    4300012: Pipes_Straight_Cap
+    4300014: Pipes_Straight_No_Caps
+    4300016: Straight_Two_Cap_Pipes
+    4300018: Table_Leg1
+    4300020: Table_pCube3_Seats
+    4300022: Table_Seats_pCube1
+    4300024: Table_Seats_pCube2
+    4300026: Table_Seats_pCube4
+    4300028: Table_Seats_pCube5
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

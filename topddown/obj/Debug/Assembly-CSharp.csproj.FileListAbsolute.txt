@@ -1,0 +1,6 @@
+D:\3d2019\tafe_2019\moby_fps\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\3d2019\tafe_2019\moby_fps\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\3d2019\tafe_2019\dip\moby_fps\moby_fps\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\3d2019\tafe_2019\dip\moby_fps\moby_fps\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\3d2019\tafe_2019\dip\tb_fps\moby_fps\moby_fps\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\3d2019\tafe_2019\dip\tb_fps\moby_fps\moby_fps\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

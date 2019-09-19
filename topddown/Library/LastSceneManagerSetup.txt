@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/TOP_DOWN_WITH_LEVEL.unity
+  isLoaded: 1
+  isActive: 1
